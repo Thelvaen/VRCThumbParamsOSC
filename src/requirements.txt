@@ -6,3 +6,5 @@ requests
 psutil
 pyglet
 pillow
+pystray
+ifaddr
